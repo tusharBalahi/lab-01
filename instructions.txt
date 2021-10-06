@@ -1,0 +1,18 @@
+INSTRUCTIONS
+----------------------------------
+
+1. Follow the steps in ./src/QueryBuilder.php
+2. Follow the steps in ./index.php
+3. Fill in the information required in this file
+4. Upload ONLY the following files (DO NOT COMPRESS THEM PLEASE)
+  - ./index.php
+  - ./src/QueryBuilder.php
+  - ./instructions.txt (filled in with your details)
+
+--- Your Info ---
+First Name: Tushar
+Last Name: Tushar
+Student Number: 200465248
+Day of Class: Wednesday
+Date: 6/oct/2021
+-----------------
